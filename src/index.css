@@ -1,0 +1,49 @@
+html{ overflow: hidden !important; }
+
+body {
+  overflow: hidden !important; 
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 100%;
+  padding: 0;
+  background-color: #24292e;
+  color: white;
+}
+
+
+.maindiv {
+  /* border: 1px solid red; */
+  border: none;
+}
+
+.MuiTab-textColorPrimary {
+  color: #76787a !important;
+}
+
+.Mui-selected {
+  color: #f6f8fa !important;
+}
+
+.MuiMenu-paper {
+  background-color: #24292e !important;
+  color: white !important;
+  border-radius: 0px !important;
+}
+
+.menu-bar {
+  background-color: #202020;
+}
+
+.menu-item {
+  min-width: 12rem;
+}
+
+.menu-item-label {  
+  float: left !important;
+}
+
+.menu-item-shortcut {
+  color: #76787a;
+  float: right !important;
+}
