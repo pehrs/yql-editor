@@ -6,6 +6,8 @@ for the [Monaco-Editor](https://microsoft.github.io/monaco-editor/) with [React]
 
 The tool is a just a simple, incomplete, editor for Vespa AI [YQL request](https://docs.vespa.ai/en/reference/query-api-reference.html) files.
 
+![YQL Editor Snapshot](yql-editor.png)
+
 ## Build &amp; Run
 
 ```shell
